@@ -2,6 +2,10 @@
 
 ![Logo](./assets/logo.jpg) <!-- *(Добавьте логотип проекта, если есть)* -->
 
+[![Status](https://github-readme-stats.vercel.app/api?username=SmartMaster35Rus&count_private=true&show_icons=true)](https://github.com/SmartMaster35Rus)
+
+
+
 ## Описание
 
 **Raspberry Pi Pico Checkm8 Mod** — это проект, который использует микроконтроллер Raspberry Pi Pico для эксплуатации уязвимости [Checkm8](https://checkm8.re) в устройствах Apple на базе чипов A5 (модели 8940, 8942, 8945). Этот инструмент позволяет переводить устройства в режим DFU и далее в режим PWNDFU для последующей джейлбрейкинга или восстановления.
