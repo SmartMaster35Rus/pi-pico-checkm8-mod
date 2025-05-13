@@ -125,9 +125,9 @@
 **Платформа полностью работает через штатные USB-разъёмы. При необходимости подключения GPIO — смотрите отдельную схему:**
 
 <p align="center">
-  <img src="./assets/schematic_1.png" alt="Схема подключения 1" width="220"/>
-  <img src="./assets/schematic_2.png" alt="Схема подключения 2" width="220"/>
-  <img src="./assets/schematic_3.png" alt="Схема подключения 3" width="220"/>
+  <img src="./assets/schematic_1.png" alt="Схема подключения 1" width="300"/>
+  <img src="./assets/schematic_2.png" alt="Схема подключения 2" width="300"/>
+  <img src="./assets/schematic_3.png" alt="Схема подключения 3" width="300"/>
 </p>
 
 *(Cхема GPIO-подключения будет добавлена в репозиторий по мере готовности.)*
