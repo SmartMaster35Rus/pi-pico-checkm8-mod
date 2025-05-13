@@ -76,7 +76,7 @@
 
 - `8940.uf2` — iPad 2, iPad mini (A5 8940)
 - `8942.uf2` — iPhone 4S, iPod touch 5 (A5 8942)
-- `8945.uf2` — Apple TV 3 (A5 8945)
+- `8945.uf2` — Apple TV 3, iPad 3 (A5 8945)
 
 ### 2. Загрузка прошивки на Raspberry Pi Pico
 
@@ -124,12 +124,10 @@
 
 **Платформа полностью работает через штатные USB-разъёмы. При необходимости подключения GPIO — смотрите отдельную схему:**
 
-## Схема подключения
-
 <p align="center">
-  <img src="./assets/schematic_1.png" alt="Схема 1" width="220"/>
-  <img src="./assets/schematic_2.png" alt="Схема 2" width="220"/>
-  <img src="./assets/schematic_3.png" alt="Схема 3" width="220"/>
+  <img src="./assets/schematic_1.png" alt="Схема подключения 1" width="220"/>
+  <img src="./assets/schematic_2.png" alt="Схема подключения 2" width="220"/>
+  <img src="./assets/schematic_3.png" alt="Схема подключения 3" width="220"/>
 </p>
 
 *(Cхема GPIO-подключения будет добавлена в репозиторий по мере готовности.)*
